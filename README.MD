@@ -9,15 +9,15 @@ I have 1 brother and 1 sister. I'am the middle child ;)
 
 # Metas:
 
-[ ] **FAZER O BRUNO RIR;**
+- [ ] **FAZER O BRUNO RIR;**
 
-[ ] concluir o ensino médio;
+- [ ] concluir o ensino médio;
 
-[ ] cursar ADS ou Ciência da Computação;
+- [ ] cursar ADS ou Ciência da Computação;
 
-[ ] ir para alguma faculdade;
+- [ ] ir para alguma faculdade;
 
-[ ] ter uma profissão boa;
+- [ ] ter uma profissão boa;
 
 ...
 
