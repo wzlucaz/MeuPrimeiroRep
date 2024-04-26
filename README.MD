@@ -9,10 +9,14 @@ I have 1 brother and 1 sister. I'am the middle child ;)
 
 # Metas:
 
-[]concluir o ensino médio
-[]cursar ADS ou Ciência da Computação
-[]Ir para alguma faculdade
-[]ter uma profissão boa
+[]concluir o ensino médio;
+
+[]cursar ADS ou Ciência da Computação;
+
+[]Ir para alguma faculdade;
+
+[]ter uma profissão boa;
+
 ...
 
-# *Perfil em andamento*
+*Perfil em andamento*
